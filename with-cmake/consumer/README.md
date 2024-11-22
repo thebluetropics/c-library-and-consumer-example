@@ -1,4 +1,4 @@
-How to build the `consumer` project:
+How to build and run the `consumer` project:
 
 ```bash
 mkdir build
